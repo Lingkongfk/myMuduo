@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/lingkongfk/myMuduo/build",
+  "command": "/usr/bin/g++ -DmyMuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/myMuduo.dir/Channel.cpp.o -c /home/lingkongfk/myMuduo/Channel.cpp",
+  "file": "/home/lingkongfk/myMuduo/Channel.cpp"
+},
+{
+  "directory": "/home/lingkongfk/myMuduo/build",
+  "command": "/usr/bin/g++ -DmyMuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/myMuduo.dir/DefaultPoller.cpp.o -c /home/lingkongfk/myMuduo/DefaultPoller.cpp",
+  "file": "/home/lingkongfk/myMuduo/DefaultPoller.cpp"
+},
+{
+  "directory": "/home/lingkongfk/myMuduo/build",
+  "command": "/usr/bin/g++ -DmyMuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/myMuduo.dir/EPollPoller.cpp.o -c /home/lingkongfk/myMuduo/EPollPoller.cpp",
+  "file": "/home/lingkongfk/myMuduo/EPollPoller.cpp"
+},
+{
+  "directory": "/home/lingkongfk/myMuduo/build",
+  "command": "/usr/bin/g++ -DmyMuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/myMuduo.dir/InetAddress.cpp.o -c /home/lingkongfk/myMuduo/InetAddress.cpp",
+  "file": "/home/lingkongfk/myMuduo/InetAddress.cpp"
+},
+{
+  "directory": "/home/lingkongfk/myMuduo/build",
+  "command": "/usr/bin/g++ -DmyMuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/myMuduo.dir/Poller.cpp.o -c /home/lingkongfk/myMuduo/Poller.cpp",
+  "file": "/home/lingkongfk/myMuduo/Poller.cpp"
+},
+{
+  "directory": "/home/lingkongfk/myMuduo/build",
+  "command": "/usr/bin/g++ -DmyMuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/myMuduo.dir/Timestamp.cpp.o -c /home/lingkongfk/myMuduo/Timestamp.cpp",
+  "file": "/home/lingkongfk/myMuduo/Timestamp.cpp"
+},
+{
+  "directory": "/home/lingkongfk/myMuduo/build",
+  "command": "/usr/bin/g++ -DmyMuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/myMuduo.dir/logger.cpp.o -c /home/lingkongfk/myMuduo/logger.cpp",
+  "file": "/home/lingkongfk/myMuduo/logger.cpp"
+}
+]
